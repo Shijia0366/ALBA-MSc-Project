@@ -13,6 +13,6 @@ Bladder Assist System**
 
 Closed-loop MATLAB/Simulink control simulations are archived separately in:
 
-[ALBA_Step9_ClosedLoop_v3](https://github.com/Shijia0366/ALBA_Step9_ClosedLoop_v3)
+[ALBA_ClosedLoop_Control_v3](https://github.com/Shijia0366/ALBA_ClosedLoop_Control_v3)
 
 The closed-loop control results reported in the thesis are simulation-based.
