@@ -42,8 +42,7 @@ alba-v3/
 ├── platformio.ini
 ├── README.md
 ├── include/       
-├── src/           
-└── scripts/       
+├── src/                
 └── scripts/
     ├── log_serial.py
     ├── log_fixed_id.py
