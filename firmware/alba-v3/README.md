@@ -41,9 +41,9 @@ closed-loop PI controller evaluated later in simulation.
 alba-v3/
 ├── platformio.ini
 ├── README.md
-├── include/
-├── src/
-│   └── main.cpp
+├── include/       
+├── src/           
+└── scripts/       
 └── scripts/
     ├── log_serial.py
     ├── log_fixed_id.py
